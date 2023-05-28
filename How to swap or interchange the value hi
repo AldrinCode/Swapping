@@ -12,3 +12,6 @@ public:void input();
       {
       cout<<"enter the number of elements";
       cin>>n;
+cout<<"enter the array elements";
+cin>>for(i=0;i<n;i++)
+cin>>a(i);
