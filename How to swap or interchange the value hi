@@ -1,0 +1,14 @@
+#include<iostream.h>
+#include<conio.h>
+#include<iomanip.h>
+class swap()
+{
+private:a,b,c,temp,n;
+public:void input();
+        void process();
+        void output();
+      }
+      void swap::input()
+      {
+      cout<<"enter the number of elements";
+      cin>>n;
